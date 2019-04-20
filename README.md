@@ -2,6 +2,8 @@
 
 ## This shopping cart app is using node.js as a server environment, express.js as a web framework, sqlite3 as a database management.
 
+## Usage: open terminal or cmd, cd(Mac or Linux) or dir(Window) into the app directory, type npm start
+
 ## Features:
 
 #### -User Authentication (username,password)
