@@ -1,5 +1,7 @@
 # shoppingCartSystem
 
+## This shopping cart app is using node.js as a server environment, express.js as a web framework, sqlite3 as a database management.
+
 ## Features:
 
 #### -User Authentication (username,password)
