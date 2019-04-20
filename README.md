@@ -1,6 +1,10 @@
 # shoppingCartSystem
 
-## This shopping cart app is using node.js as a server environment, express.js as a web framework, sqlite3 as a database management.
+## This shopping cart app is using:
+### -node.js as the server environment
+### -Express as the web framework
+### -sqlite3 as the database management
+### -bootstrap4 as the stylying css
 
 ## Usage: open terminal or cmd, cd(Mac or Linux) or dir(Window) into the app directory, type npm start
 
