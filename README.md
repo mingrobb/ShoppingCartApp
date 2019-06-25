@@ -2,7 +2,7 @@
 
 ## This shopping cart app is using:
 ### -node.js as the server environment
-### -Express as the web framework
+### -Express as the back-end framework
 ### -sqlite3 as the database management
 ### -bootstrap4 as the stylying css
 
